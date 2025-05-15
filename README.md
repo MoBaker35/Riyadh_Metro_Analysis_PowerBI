@@ -71,7 +71,7 @@ Extracted report is included in:
 
 ## 📊 Dashboard Preview
 
-To view screenshots of the report, visit the [image folder](https://github.com/MoBaker35/Riyadh_Metro_Analysis_PowerBI/commit/2eb705843efdb2d1f7e2ac2172396b7ff414ea3f#diff-21b2eed1e328a2c62fe4c17d51188bdea73450f29956dc5c8c95429313ddd72cR1)
+To view screenshots of the report, visit the [image folder](images)
 
 🚨 Note: For data confidentiality, dashboards are for internal review only.
 
